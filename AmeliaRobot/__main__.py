@@ -81,7 +81,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ᴀᴅᴅ Amelia ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/TheVonomBot?startgroup=true"),
+            text="➕️ ᴀᴅᴅ Vonom ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/TheVonomBot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="amelia_"),
@@ -99,7 +99,7 @@ HELP_STRINGS = """
 `ʜɪ.. ɪ'ᴍ` Vonom [🙋‍♀️](https://telegra.ph/file/647a2ac61ef66b3871e8a.jpg)
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`"""
 
-amelia_IMG = "https://telegra.ph/file/329647a798cccb101aecf.jpg"
+amelia_IMG = "https://telegra.ph/file/647a2ac61ef66b3871e8a.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](#) or by contacting @iamdarkz\
