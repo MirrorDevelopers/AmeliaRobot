@@ -1,5 +1,5 @@
 {
-      "name": "Asuna Robot",
+      "name": "Masha Bot",
       "description": "An Anime Theme Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -9,9 +9,9 @@
          "Asuna"
       ],
     
-   "logo":    "https://telegra.ph/file/329647a798cccb101aecf.jpg",
+   "logo":    "https://telegra.ph/file/647a2ac61ef66b3871e8a.jpg",
 
-   "repository": "https://github.com/war-legend/AmeliaRoBot",
+   "repository": "https://github.com",
    "addons": [
           {
          "options": {
